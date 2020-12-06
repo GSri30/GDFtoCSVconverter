@@ -11,13 +11,14 @@
 ## Usage
 
 ```sh
-g++ *.cpp \n ./a.out 
+g++ *.cpp
+./a.out 
 ```
 
 ## Run tests
 
 ```sh
-Enter the inputPath of gdf file as first argument and outputpath where the generated csv file is placed, as second argument.
+## Enter the inputPath of gdf file as first argument and outputpath where the generated csv file is placed, as second argument.
 ```
 
 ## Author
@@ -32,6 +33,3 @@ Enter the inputPath of gdf file as first argument and outputpath where the gener
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
