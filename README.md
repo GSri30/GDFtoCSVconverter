@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> Simple c++ program to convert a GDF file into a CSV file. You can Use &#34;sampleinput.gdf&#34; as a sample input.
+> Simple C++ program to convert a GDF file into a CSV file. You can use &#34;sampleinput.gdf&#34; as a sample input.
 
 ## Usage
 
